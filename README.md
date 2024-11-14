@@ -1,15 +1,1 @@
-Voici un résumé encore plus concis et accessible :
-
----
-
-Array (Tableau) : Stocke des éléments en ligne avec accès rapide, mais les insertions et suppressions peuvent être lentes.
-
-Linked List (Liste Chaînée) : Flexible pour ajouter et supprimer, mais l'accès aux éléments est plus lent.
-
-Queue (File d'attente): Traite les éléments dans l’ordre d’arrivée (FIFO) avec insertion et suppression rapides, mais l’accès direct est limité.
-
-Hash Table (Table de Hachage) : Associe des clés à des valeurs pour un accès rapide, bien qu'elle puisse rencontrer des collisions.
-
----
-
-Ces structures offrent des manières uniques de stocker et accéder aux données selon les besoins de l’application.
+Visualgo est un site interactif qui permet de visualiser les algorithmes et structures de données en temps réel, facilitant ainsi la compréhension des concepts comme les tableaux, listes chaînées, files d'attente et tables de hachage. Il offre une visualisation dynamique des opérations sur les données, comme l'insertion et la suppression, ce qui aide à mieux saisir leur fonctionnement. En l’utilisant, vous pouvez comparer différentes structures selon leurs performances et cas d’usage, ce qui vous aide à choisir la plus adaptée pour chaque problème. Pour aller plus loin, il serait utile d'ajouter des exercices interactifs pour renforcer l'apprentissage pratique.
